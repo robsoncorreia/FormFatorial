@@ -16,3 +16,12 @@ D:\2° Semestre\POO\3° Semana\FormFatorial\FormFatorial\obj\Debug\FormFatorial.
 D:\2° Semestre\POO\3° Semana\FormFatorial\FormFatorial\obj\Debug\FormFatorial.Form1.resources
 D:\2° Semestre\POO\3° Semana\FormFatorial\FormFatorial\obj\Debug\FormFatorial.Properties.Resources.resources
 D:\2° Semestre\POO\3° Semana\FormFatorial\FormFatorial\obj\Debug\FormFatorial.csproj.GenerateResource.Cache
+C:\Users\robso\Source\Repos\FormFatorial\FormFatorial\bin\Debug\FormFatorial.exe.config
+C:\Users\robso\Source\Repos\FormFatorial\FormFatorial\obj\Debug\FormFatorial.exe
+C:\Users\robso\Source\Repos\FormFatorial\FormFatorial\obj\Debug\FormFatorial.pdb
+C:\Users\robso\Source\Repos\FormFatorial\FormFatorial\bin\Debug\FormFatorial.exe
+C:\Users\robso\Source\Repos\FormFatorial\FormFatorial\bin\Debug\FormFatorial.pdb
+C:\Users\robso\Source\Repos\FormFatorial\FormFatorial\obj\Debug\FormFatorial.csprojResolveAssemblyReference.cache
+C:\Users\robso\Source\Repos\FormFatorial\FormFatorial\obj\Debug\FormFatorial.Form1.resources
+C:\Users\robso\Source\Repos\FormFatorial\FormFatorial\obj\Debug\FormFatorial.Properties.Resources.resources
+C:\Users\robso\Source\Repos\FormFatorial\FormFatorial\obj\Debug\FormFatorial.csproj.GenerateResource.Cache
